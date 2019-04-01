@@ -8,5 +8,6 @@ int main(void)
 	scanf("%d", &y);
 printf("%d", x+y);
 printf("%d\n", x-y);
+printf("%d\n", x*y );
 return 0;
 }
