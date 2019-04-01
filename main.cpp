@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Программа учебная
 int main(void)
 {
 	int x, y;
@@ -7,6 +8,6 @@ int main(void)
 	printf("Введите второе число\n");
 	scanf("%d", &y);
 printf("%d", x+y);
-printf("%d\n", x-y);
+
 return 0;
 }
