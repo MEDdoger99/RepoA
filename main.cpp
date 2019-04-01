@@ -7,5 +7,6 @@ int main(void)
 	scanf("%d", &x);
 	printf("Введите второе число\n");
 	scanf("%d", &y);
+printf("%d", x+y);
 return 0;
 }
